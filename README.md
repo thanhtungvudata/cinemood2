@@ -12,7 +12,7 @@ CineMood2 is an AI agent-based movie recommendation system that helps users find
 ## 🚀 Features  
 ✅ **Mood Detection**: Uses GPT-4o-mini to extract 3 mood words from user input.  
 ✅ **Trending Movie Fetching**: Retrieves **100 trending movies** from TMDB, filtering only past releases.  
-✅ **AI-Based Matching**: Finds the **top 3** movies that best match the user's mood.  
+✅ **AI-Based Matching**: Finds the **top 3** movies that best match the user's detected moods and the movie overviews.  
 ✅ **Real-time Recommendations**: Always up-to-date with the latest trending movies.  
 ✅ **Easy to Use**: Runs on **Streamlit** with an intuitive UI.  
 ✅ **Dockerized Deployment**: Ensures smooth operation across environments.
