@@ -29,7 +29,6 @@ CineMood2 is an AI agent-based movie recommendation system that helps users find
 | **Streamlit** | Frontend UI |
 | **Docker** | Containerization |
 | **VSCode** | Development |
-| **Git & GitHub** | Version control |
 | **Flake8** | Code linting |
 | **pytest** | Automated testing |
 
