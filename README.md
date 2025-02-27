@@ -5,7 +5,7 @@ CineMood2 is an AI agent-based movie recommendation system that helps users find
 
 ## 🚀 Demo
 
-🎭 **Try the app:** [CineMood: Movie Recommender](https://huggingface.co/spaces/thanhtungvudata/cinemood2)  
+🎭 **Try the app:** [CineMood2: AI-Agent-Assisted Mood-Based Movie Recommendation](https://huggingface.co/spaces/thanhtungvudata/cinemood2)  
 📝 **Blog post:** [AI-Agent-Assisted Mood-Based Movie Recommendation]([https://medium.com/@tungvu_37498/from-api-to-app-creating-a-mood-based-trending-movie-recommender-with-python-hugging-face-model-e32d67b492e2](https://medium.com/@tungvu_37498/ai-agent-assisted-mood-based-movie-recommendation-086a382cf3fb))
 ---
 
